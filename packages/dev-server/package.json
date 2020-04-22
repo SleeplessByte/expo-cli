@@ -43,7 +43,9 @@
   "dependencies": {
     "@expo/bunyan": "3.0.2",
     "@expo/config": "3.1.2",
-    "@expo/metro-config": "0.0.7"
+    "@expo/metro-config": "0.0.7",
+    "body-parser": "^1.19.0",
+    "serialize-error": "^6.0.0"
   },
   "devDependencies": {
     "@expo/babel-preset-cli": "^0.2.1",
